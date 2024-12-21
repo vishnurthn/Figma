@@ -33,6 +33,7 @@ Publish the website in the given URL.
 Figma
 
 ## CODE:
+```
 LAYER 1
 <div style="width: 393px; height: 852px; position: relative; opacity: 0.60; background: white">
   <div style="width: 285px; height: 67px; left: 54px; top: 567px; position: absolute; background: #D9D9D9"></div>
@@ -91,6 +92,7 @@ LAYER 4
   <div style="width: 182px; height: 37px; left: 106px; top: 709px; position: absolute; text-align: center; color: #0000FF; font-size: 24px; font-family: Inter; font-weight: 900; word-wrap: break-word">CONTACT US</div>
   <div style="width: 393px; height: 136px; left: 18px; top: 753px; position: absolute; color: #FBFF00; font-size: 15px; font-family: Inter; font-weight: 500; word-wrap: break-word">E-Mail : saveethaengineeringcollege@gmail.com<br/>Phone : +91 6369183394<br/>              +91 6369183395</div>
 </div>
+```
 
 ## OUTPUT:
 ![Screenshot 2024-12-19 194203](https://github.com/user-attachments/assets/a06ce76f-ae71-4150-b8e0-eab9ec954038)
